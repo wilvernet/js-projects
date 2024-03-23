@@ -1,2 +1,3 @@
 # js-projects
-Navigating the Web Development via JavaScript
+
+Navigating the Web Development via JavaScript.
